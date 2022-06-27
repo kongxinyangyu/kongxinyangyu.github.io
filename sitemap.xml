@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kongxinyangyu.github.io/categories/</loc>
+    <loc>https://kongxinyangyu.github.io/post/first/</loc>
+    <lastmod>2022-06-27T22:52:47+08:00</lastmod>
   </url><url>
     <loc>https://kongxinyangyu.github.io/</loc>
+    <lastmod>2022-06-27T22:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://kongxinyangyu.github.io/post/</loc>
+    <lastmod>2022-06-27T22:52:47+08:00</lastmod>
+  </url><url>
+    <loc>https://kongxinyangyu.github.io/about/</loc>
+    <lastmod>2022-06-27T22:24:05+08:00</lastmod>
+  </url><url>
+    <loc>https://kongxinyangyu.github.io/categories/</loc>
   </url><url>
     <loc>https://kongxinyangyu.github.io/tags/</loc>
   </url>
